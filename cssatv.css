@@ -1,0 +1,130 @@
+*{
+  font-family: 'Source Code Pro', monospace;
+}
+.caixa{
+	width: 50%;
+	height: auto;
+	background-color: #d279a4;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: black;
+	transition-duration: 1s;
+}
+.caixa:hover{
+	background: #eb99ff;
+	transition: 1s;
+
+}
+.itens{
+	width: 100%;
+	height: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.itens img{
+	width: 100%;
+	height: 68%;
+}
+.caixa_textos{
+	width: 100%;
+	margin-top: 20px;
+	text-align: center;
+}
+.linhas{
+	width: 100%;
+	height: auto;
+	background-color: #f2d9f2;
+	text-align: center;
+	overflow: hidden;
+	border-style: solid;
+	border-bottom: 10px;
+	border-left: 10px;
+	border-color: black;
+	margin-top: 10px;
+	border-radius: 10px;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+.itens2{
+	width: 100%;
+	height: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.itens2 img{
+	text-align: center;
+ 	width: 100%;
+  	overflow: hidden;
+}
+.itens2 iframe{
+	text-align: center;
+ 	width: 100%;
+  	overflow: hidden;
+}
+.footer{
+	background:black;
+	height: 90px;
+  	margin-top: 0px;
+  	text-align: center;
+  	color: white;
+  	padding-top: 25px;
+}
+.imagem_col{
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.imagem_col img{
+	width: 100%;
+	height: 300px;
+	overflow: hidden;
+	border-radius: 10px;
+	border-style: solid;
+	border-bottom: black;
+	border-right: black;
+}
+.texto_col{
+	margin-top: 10px;
+	border-radius: 10px;
+	width: 100%;
+	height: 94%;
+	background-color: #f2d9f2;
+	margin-bottom: 10px;
+	text-align: center;
+	border-style: solid;
+	border-bottom: black;
+	border-left: black;
+}
+.paragrafo{
+	width: 100%;
+	background-color: white;
+	border-radius: 5px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
+.bemvindo{
+	width: 100%;
+	height: 400px;
+	overflow: hidden;
+	border-radius: 15px;
+	margin-bottom: 5px;
+}
+.bemvindo img{
+	width: 100%;
+	height: auto;
+}
+.alb{
+	width: 100%;
+	height: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.alb img{
+	width: 100%;
+	height: 60%;
+}
